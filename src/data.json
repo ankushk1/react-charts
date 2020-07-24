@@ -1,0 +1,32 @@
+[
+    {
+      "id": "css",
+      "label": "css",
+      "value": 488,
+      "color": "hsl(68, 70%, 50%)"
+    },
+    {
+      "id": "lisp",
+      "label": "lisp",
+      "value": 104,
+      "color": "hsl(338, 70%, 50%)"
+    },
+    {
+      "id": "c",
+      "label": "c",
+      "value": 473,
+      "color": "hsl(344, 70%, 50%)"
+    },
+    {
+      "id": "rust",
+      "label": "rust",
+      "value": 523,
+      "color": "hsl(132, 70%, 50%)"
+    },
+    {
+      "id": "sass",
+      "label": "sass",
+      "value": 535,
+      "color": "hsl(349, 70%, 50%)"
+    }
+]
